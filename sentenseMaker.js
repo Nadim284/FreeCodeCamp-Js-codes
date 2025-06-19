@@ -22,4 +22,4 @@ let secondStory = `Once upon a time, there was a(n) ${adjective} ${noun} who lov
 console.log("Second story: " + secondStory);
 
 
-// Story created using ChatGPT
+//Story created using ChatGPT
